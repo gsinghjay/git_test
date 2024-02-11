@@ -1,1 +1,3 @@
 Hello Odin!
+
+This is a test of a Git commit from VS code.
